@@ -1,0 +1,11 @@
+Timestamp,Feedback2026-07-26 12:33:20.762821,Accepted,Prediction,Confidence,Response,Current Grade,Target Grade
+2026-07-26 12:33:53.624389,Rejected,,,,,,
+2026-07-26 13:57:53.782123,Accepted,,,,,,
+2026-07-26 14:57:06.248300,,,1.0,94.0,Rejected,,
+2026-07-26 15:03:18.495657,,,1.0,94.0,Accepted,,
+2026-07-26 16:36:39.822773,,,1.0,78.5,Accepted,,
+2026-07-26 17:37:13.572287,,,Within Spec,100.0,Accepted,A,B
+2026-07-26 19:18:11.808914,,,Within Spec,96.5,Accepted,A,A
+2026-07-26 21:10:50.211889,,,Off-Spec,94.5,Accepted,A,C
+2026-07-26 21:14:24.934424,,,Within Spec,100.0,Accepted,A,A
+2026-07-26 21:21:20.964841,,,Within Spec,99.5,Accepted,A,B
